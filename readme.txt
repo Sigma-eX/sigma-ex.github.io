@@ -1,1 +1,2 @@
-Sigma X website
+## Sigma X website
+sigma-ex.github.io
