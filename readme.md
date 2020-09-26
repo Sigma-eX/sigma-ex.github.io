@@ -1,2 +1,2 @@
-#Sigma X website
-sigma-ex.github.io
+# Sigma X website
+https://sigma-ex.github.io/
